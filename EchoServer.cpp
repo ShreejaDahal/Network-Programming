@@ -1,5 +1,6 @@
-// EchoServer.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// EchoServer.cpp
+//Program Description: An Echo server that works for multiple client at the same time.  Use of select to achieve concurrency.
+//Author: Shreeja Dahal
 
 #include <iostream>
 #include<string>
