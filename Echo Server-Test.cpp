@@ -1,3 +1,7 @@
+//Program Description: Use the echo service to determine how long it would take to send and receive 1000 messages of 2000 bytes from a remote site.  
+//Receive each message fully before sending the next one.  Test on the Ramapo site cs.ramapo.edu.
+//Author: Shreeja Dahal 
+
 
 #pragma comment(lib, "Ws2_32.lib")
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
